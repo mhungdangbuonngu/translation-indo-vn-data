@@ -1,0 +1,10 @@
+matplotlib
+pandas
+numpy
+psycopg2
+pyspark
+wordcloud
+nltk
+scikit-learn
+transformers
+torch
